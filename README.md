@@ -252,6 +252,9 @@ If you want to version compressed GEO input files directly in the repository, re
 
 Villani R, Murigneux V, Alexis J, Sim SL et al. Subtype-Specific Analyses Reveal Infiltrative Basal Cell Carcinomas Are Highly Interactive with their Environment. J Invest Dermatol 2021 Oct;141(10):2380-2390. PMID: 33865912
 
+GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi, ID_GEO: GSE156171
 
-GEO: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi
-ID_GEO: GSE156171
+Love MI, Huber W, Anders S. Moderated estimation of fold change and dispersion for RNA-seq data with DESeq2. Genome Biol. 2014;15(12):550. doi: 10.1186/s13059-014-0550-8. PMID: 25516281; PMCID: PMC4302049.
+
+DESeq2: https://github.com/thelovelab/DESeq2
+
