@@ -158,3 +158,18 @@ renv/staging/
 ## Citation
 
 If you use this workflow, cite the GEO series and the associated article.
+
+
+## Main figures
+### PCA by group
+![PCA by group](results/01_PCA_group.png)
+### PCA by original subtype
+![PCA by original subtype](results/02_PCA_subtype.png)
+### Sample distance heatmap
+![Sample distance heatmap](results/03_sample_distance_heatmap.png)
+### Volcano plot
+![Volcano plot](results/08_volcano_plot.png)
+### Top 50 DE genes heatmap
+![Top 50 DE genes heatmap](results/09_heatmap_top50_DE_genes.png)
+### Genes of interest
+![Genes of interest](results/10_heatmap_genes_of_interest.png)
