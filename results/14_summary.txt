@@ -1,0 +1,6 @@
+GSE156171 DESeq2 summary
+Samples: 29
+Genes after filtering: 29984
+Infiltrating samples: 8
+Other samples: 21
+Significant genes (padj<0.05 & |log2FC|>=1): 27
